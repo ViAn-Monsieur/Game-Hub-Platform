@@ -3,3 +3,7 @@ nasus = [0,17,5]
 
 print(yasuo)
 print(nasus)
+
+print("20GG")
+
+#LeagueOfLegend.py
