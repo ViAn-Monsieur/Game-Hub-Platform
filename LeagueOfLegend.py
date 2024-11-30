@@ -7,3 +7,5 @@ print(nasus)
 print("20GG")
 
 #LeagueOfLegend.pys
+
+print("Cha hieu gi")
