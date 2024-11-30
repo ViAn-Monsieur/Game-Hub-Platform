@@ -6,4 +6,4 @@ print(nasus)
 
 print("20GG")
 
-#LeagueOfLegend.py
+#LeagueOfLegend.pys
